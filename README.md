@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohana
+- 👋 Hi, I’m @Mohana Research Scholar
 - 👀 I’m interested in Aritificial Intelligence and Robotics programming
 - 🌱 I’m currently doing research in Adaptive learning based FER sytsem
 - 💞️ I’m looking to collaborate on AI projects
