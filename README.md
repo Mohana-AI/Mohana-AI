@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohana Research Scholar
-- 👀 I’m interested in Artificial Intelligence, Data Science, and Robotics
-- 🌱 I’m currently doing research in Adaptive learning based FER system
+- 👀 I’m interested in Artificial Intelligence, and Data Science related projects in various disciplines 
+- 🌱 I’m currently doing research in Affective Computing, especially at the FER system
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me mohanamurukan@gmail.com
 
