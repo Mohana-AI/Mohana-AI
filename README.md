@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohana Murugan
 - 👀 I’m an active researcher in Artificial Intelligence, and Data Science related projects in various disciplines 
-- 🌱 I’m currently doing research in Affective Computing, especially at the FER system as PhD research
+- 🌱 I am currently conducting research in Affective Computing, particularly focusing on the Facial Expression Recognition (FER) system as part of my PhD research.
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me mohanamurukan@gmail.com
 
