@@ -11,6 +11,15 @@
    - Natural Language Processing
    - Data Science
    - Artificial Intelligence
+**Research Domain**
+   - Affective Computing
+   - Human-computer Interaction
+   - Adaptive Learning
+   - Mulsemedia
+   - Healthcare
+   - Brain Computer Interface
+   - Human-Robotic Interaction
+
 - 🎯Portfolio Website: [Portfolio]()
 
 **🛠️Tech Stack**
