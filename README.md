@@ -13,6 +13,7 @@
    - Artificial Intelligence
 - 🎯Portfolio Website: [Portfolio]()
 **🛠️Tech Stack**
+  
  ![Static Badge](https://img.shields.io/badge/Python-black?logo=python) ![Static Badge](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)
 
 <!---
