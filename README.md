@@ -30,7 +30,7 @@
   
  ![Static Badge](https://img.shields.io/badge/Python-black?logo=python) ![Static Badge](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn) ![Static Badge](https://img.shields.io/badge/TensorFlow-black?logo=TensorFlow) ![Static Badge](https://img.shields.io/badge/Keras-black?logo=Keras) ![Static Badge](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
 
- ![Static Badge](https://img.shields.io/badge/OpenCV-black?logo=OpenCV) ![Static Badge](https://img.shields.io/badge/NLTK-black?logo=nltk) ![Static Badge](https://img.shields.io/badge/spaCy%20-black?logo=SpaCy%20) ![Static Badge](https://img.shields.io/badge/TextBlob%20-black?logo=TextBlob)
+ ![Static Badge](https://img.shields.io/badge/OpenCV-black?logo=OpenCV) ![Static Badge](https://img.shields.io/badge/Matplotlib-black?logo=Matplotlib) ![Static Badge](https://img.shields.io/badge/Seaborn-black?logo=Seaborn) ![Static Badge](https://img.shields.io/badge/NLTK-black?logo=nltk) ![Static Badge](https://img.shields.io/badge/spaCy%20-black?logo=SpaCy%20) ![Static Badge](https://img.shields.io/badge/TextBlob%20-black?logo=TextBlob)
 
 ![Static Badge](https://img.shields.io/badge/programming-black?logo=C) ![Static Badge](https://img.shields.io/badge/programming-black?logo=C%2B%2B) ![Static Badge](https://img.shields.io/badge/Java-black?logo=java) ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL) ![Static Badge](https://img.shields.io/badge/MySQL-black?logo=MySQL) ![Static Badge](https://img.shields.io/badge/Git-black?logo=Git) ![Static Badge](https://img.shields.io/badge/HTML5-black?logo=HTML5) ![Static Badge](https://img.shields.io/badge/CSS3-black?logo=CSS3) ![Static Badge](https://img.shields.io/badge/PHP-black?logo=PHP)
 
