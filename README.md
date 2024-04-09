@@ -15,7 +15,7 @@
 
 **🛠️Tech Stack**
   
- ![Static Badge](https://img.shields.io/badge/Python-black?logo=python) ![Static Badge](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn)
+ ![Static Badge](https://img.shields.io/badge/Python-black?logo=python) ![Static Badge](https://img.shields.io/badge/scikit-learn-black?logo=scikit-learn) ![Static Badge](https://img.shields.io/badge/TensorFlow-black?logo=TensorFlow) ![Static Badge](https://img.shields.io/badge/Keras-black?logo=Keras) ![Static Badge](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
 
 <!---
 Mohana-AI/Mohana-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
