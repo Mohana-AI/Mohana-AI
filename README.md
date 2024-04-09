@@ -12,7 +12,7 @@
    - Data Science
    - Artificial Intelligence
      
-**Research Domain**
+**📌Research Domain**
    - Affective Computing
    - Human-computer Interaction
    - Adaptive Learning
@@ -21,7 +21,7 @@
    - Brain Computer Interface
    - Human-Robotic Interaction
 
-- 🎯Portfolio Website: [Portfolio]()
+🎯Portfolio Website: [Portfolio]()
 
 **🛠️Tech Stack**
   
