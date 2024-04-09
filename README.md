@@ -1,11 +1,13 @@
 **Hi There! I am Mohana Murugan 👋**
 
 **I am a dedicated researcher specializing in Artificial Intelligence**, actively developing novel methodologies to address intricate challenges across diverse fields, with the goal of making significant contributions to top-tier scientific endeavors.
-<img src="https://github.com/Mohana-Murugan/Mohana-Murugan/blob/main/ezgif-1-b0d2bc44da.gif" alt="Girl in a jacket" width="100" height="100" style="vertical-align:right">
+
  [![Static Badge](https://img.shields.io/badge/mohanamurukan%40gmail.com-red?logo=gmail&logoColor=white)](mailto:mohanamurukan@gmail.com) [![Static Badge](https://img.shields.io/badge/Mohana%20Murugan-blue?logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=DTGvo_sAAAAJ&hl=en&authuser=1) [![Static Badge](https://img.shields.io/badge/Mohana%20Murugan-%20green?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mohana-Murugan) [![Static Badge](https://img.shields.io/badge/Mohana%20Murugan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-m-84a435231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 🎯Portfolio Website: [Portfolio]()
-- 👩‍💻 Motivation : Never Stop Dreaming 
+- 👩‍💻 Motivation : Never Stop Dreaming
+
+  <img src="https://github.com/Mohana-Murugan/Mohana-Murugan/blob/main/ezgif-1-b0d2bc44da.gif" alt="Girl in a jacket" width="200" height="200" style="vertical-align:right">
  
 **💻Things I love** 
    - Computer Vision 
