@@ -1,5 +1,5 @@
--  ***Hi There! I am Mohana Murugan*** 
--  ***I’m an active researcher in Artificial Intelligence, and Data Science related projects in various disciplines***
+-  **Hi There! I am Mohana Murugan**
+-  **I’m an active researcher in Artificial Intelligence, and Data Science related projects in various disciplines**
 - 🎯Portfolio Website: [Portfolio]() 
 - connect with me mohanamurukan@gmail.com
 
