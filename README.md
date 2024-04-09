@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mohana Murugan
-- 👀 I’m an active researcher in Artificial Intelligence, and Data Science related projects in various disciplines 
-- 🌱 I am currently conducting research in Affective Computing, particularly focusing on the Facial Expression Recognition (FER) system as part of my PhD research.
-- 💞️ I’m open to collaborating on AI projects in Affective Computing, Human-Computer Interaction (HCI), and Healthcare
-- 📫 How to reach me mohanamurukan@gmail.com
+- 👩‍💻I’m an active researcher in Artificial Intelligence, and Data Science related projects in various disciplines 
+- 📚I am currently conducting research in Affective Computing, particularly focusing on the Facial Expression Recognition (FER) system as part of my PhD research.
+- 🎯I’m open to collaborating on AI projects in Affective Computing, Human-Computer Interaction (HCI), and Healthcare
+- 📩How to reach me mohanamurukan@gmail.com
 
 <!---
 Mohana-AI/Mohana-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
