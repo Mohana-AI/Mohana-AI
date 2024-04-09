@@ -7,7 +7,7 @@
 - 🎯Portfolio Website: [Portfolio]()
 - 👩‍💻 Motivation: Never Stop Dreaming
 
-  <img src="https://github.com/Mohana-Murugan/Mohana-Murugan/blob/main/ezgif-1-b0d2bc44da.gif" alt="Girl in a jacket" width="200" height="200" style="float:right">
+  <img src="https://github.com/Mohana-Murugan/Mohana-Murugan/blob/main/ezgif-1-b0d2bc44da.gif" alt="Girl in a jacket" width="200" height="200" align="right">
  
 **💻Things I love** 
    - Computer Vision 
