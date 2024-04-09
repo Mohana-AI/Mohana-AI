@@ -1,5 +1,5 @@
--  **Hi There! I am Mohana Murugan**
--  **I’m an enthusiastic researcher in Artificial Intelligence**
+**Hi There! I am Mohana Murugan**
+**I’m an enthusiastic researcher in Artificial Intelligence**
 - 💻Things I love 
    - Computer Vision
    - Machine Learning
