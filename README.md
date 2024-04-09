@@ -8,6 +8,9 @@
 - 🎯Portfolio Website: [Portfolio]()
 
   ![Static Badge](https://img.shields.io/badge/mohanamurukan%40gmail.com-red?logo=gmail&logoColor=white)(mailto:test@test.com)
+  
+  
+  [![Static Badge](https://img.shields.io/badge/mohanamurukan%40gmail.com-red?logo=gmail&logoColor=white)](mailto:test@test.com)
 
 <!---
 Mohana-AI/Mohana-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
