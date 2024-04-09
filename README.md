@@ -3,6 +3,9 @@
 **I’m diligent researcher in the area of Artificial Intelligence**, developing new approaches to solving complex problems across various disciplines with the aim of actively contributing to high-quality scientific research.
 
  [![Static Badge](https://img.shields.io/badge/mohanamurukan%40gmail.com-red?logo=gmail&logoColor=white)](mailto:mohanamurukan@gmail.com) [![Static Badge](https://img.shields.io/badge/Mohana%20Murugan-blue?logo=google%20scholar&logoColor=white)](https://scholar.google.com/citations?user=DTGvo_sAAAAJ&hl=en&authuser=1) [![Static Badge](https://img.shields.io/badge/Mohana%20Murugan-%20green?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mohana-Murugan) [![Static Badge](https://img.shields.io/badge/Mohana%20Murugan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-m-84a435231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+- 🎯Portfolio Website: [Portfolio]()
+- 👩‍💻 Motivation : Never Stop Dreaming 
  
 **💻Things I love** 
    - Computer Vision 
@@ -21,7 +24,7 @@
    - Brain Computer Interface
    - Human-Robotic Interaction
 
-🎯Portfolio Website: [Portfolio]()
+
 
 **🛠️Tech Stack**
   
