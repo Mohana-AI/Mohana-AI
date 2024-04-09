@@ -1,8 +1,12 @@
 -  **Hi There! I am Mohana Murugan**
 -  **I’m an enthusiastic researcher in Artificial Intelligence**
-- 💻Things I love to work in Computer Vision, Machine Learning, Deep Learning and Natural Language Processing projects in various disciplines**
+- 💻Things I love to work
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
 - 🎯Portfolio Website: [Portfolio]()
-- Connect with me [![Email Badge]([https://img.shields.io/badge/mohanamurukan%40gmail.com-red?logo=gmail&logoColor=white])
+- Connect with me ![Static Badge](https://img.shields.io/badge/mohanamurukan%40gmail.com-red?logo=gmail&logoColor=white)
   
 
 <!---
