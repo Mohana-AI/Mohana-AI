@@ -36,10 +36,8 @@
 
 ![Static Badge](https://img.shields.io/badge/programming-black?logo=C) ![Static Badge](https://img.shields.io/badge/programming-black?logo=C%2B%2B) ![Static Badge](https://img.shields.io/badge/Java-black?logo=java) ![Static Badge](https://img.shields.io/badge/SQL-black?logo=SQL) ![Static Badge](https://img.shields.io/badge/MySQL-black?logo=MySQL) ![Static Badge](https://img.shields.io/badge/Git-black?logo=Git) ![Static Badge](https://img.shields.io/badge/HTML5-black?logo=HTML5) ![Static Badge](https://img.shields.io/badge/CSS3-black?logo=CSS3) ![Static Badge](https://img.shields.io/badge/PHP-black?logo=PHP)
 
-[![Mohana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohana-Murugan&bg_color=171717&color=eeedee&line=79ec69&point=ffffff&area=true&hide_border=true)]
-[![Mohana's github activity](https://github.com/mohana-murugan/github-readme-activity-graph)
+![Mohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <!---
 Mohana-AI/Mohana-AI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
